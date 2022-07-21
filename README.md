@@ -1,5 +1,5 @@
 ## Olá Sou o Junior Bass
-- 👀 Hoje trabalho com Front-end
+- 💻 Hoje trabalho com Front-end
 - 🌱 Estudando typescript
 
 
