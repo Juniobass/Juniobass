@@ -1,4 +1,4 @@
-## Olá Sou o Junior Bass
+## Olá Sou o Junior Bass Seja Bem Vindo!
 - 💻 Hoje trabalho com Front-end 
 
 
