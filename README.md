@@ -1,5 +1,6 @@
 ## Olá Sou o Junior Bass Seja Bem Vindo!
-- 💻 Hoje trabalho com Front-end 
+- 💻 Olá Me Chamo Juniorbass e amo tecnologia e o conhecimento
+Atualmente Sou desenvolvedor front-end. 
 
 
 
