@@ -1,5 +1,5 @@
 ##  Seja Bem Vindo!
-- 💻 Olá Me Chamo CLaudio e amo tecnologia 
+- 💻 Olá Me Chamo Claudio e amo tecnologia 
 Atualmente Sou desenvolvedor front-end. 
 
 
