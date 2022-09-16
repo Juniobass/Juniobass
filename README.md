@@ -1,5 +1,5 @@
-## Olá Sou o Junior Bass Seja Bem Vindo!
-- 💻 Olá Me Chamo Juniorbass e amo tecnologia e o conhecimento
+##  Seja Bem Vindo!
+- 💻 Olá Me Chamo CLaudio e amo tecnologia 
 Atualmente Sou desenvolvedor front-end. 
 
 
