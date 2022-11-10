@@ -1,6 +1,6 @@
-##  Seja Bem Vindo!
-- 💻 Olá Me Chamo Claudio e amo tecnologia 
-Atualmente Sou desenvolvedor front-end. 
+Hi, I'm Rodolfo Mori, I am a dev passionate about technology!
+
+This is the space where I spend most of my time where, imagination and creativity become code.
 
 
 
